@@ -1,0 +1,13 @@
+C:\Users\n1280420.STCN2\source\repos\ポーカー\ポーカー\bin\Debug\netcoreapp3.1\ポーカー.exe
+C:\Users\n1280420.STCN2\source\repos\ポーカー\ポーカー\bin\Debug\netcoreapp3.1\ポーカー.deps.json
+C:\Users\n1280420.STCN2\source\repos\ポーカー\ポーカー\bin\Debug\netcoreapp3.1\ポーカー.runtimeconfig.json
+C:\Users\n1280420.STCN2\source\repos\ポーカー\ポーカー\bin\Debug\netcoreapp3.1\ポーカー.runtimeconfig.dev.json
+C:\Users\n1280420.STCN2\source\repos\ポーカー\ポーカー\bin\Debug\netcoreapp3.1\ポーカー.dll
+C:\Users\n1280420.STCN2\source\repos\ポーカー\ポーカー\bin\Debug\netcoreapp3.1\ポーカー.pdb
+C:\Users\n1280420.STCN2\source\repos\ポーカー\ポーカー\obj\Debug\netcoreapp3.1\ポーカー.csprojAssemblyReference.cache
+C:\Users\n1280420.STCN2\source\repos\ポーカー\ポーカー\obj\Debug\netcoreapp3.1\ポーカー.AssemblyInfoInputs.cache
+C:\Users\n1280420.STCN2\source\repos\ポーカー\ポーカー\obj\Debug\netcoreapp3.1\ポーカー.AssemblyInfo.cs
+C:\Users\n1280420.STCN2\source\repos\ポーカー\ポーカー\obj\Debug\netcoreapp3.1\ポーカー.csproj.CoreCompileInputs.cache
+C:\Users\n1280420.STCN2\source\repos\ポーカー\ポーカー\obj\Debug\netcoreapp3.1\ポーカー.dll
+C:\Users\n1280420.STCN2\source\repos\ポーカー\ポーカー\obj\Debug\netcoreapp3.1\ポーカー.pdb
+C:\Users\n1280420.STCN2\source\repos\ポーカー\ポーカー\obj\Debug\netcoreapp3.1\ポーカー.genruntimeconfig.cache
